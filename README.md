@@ -4,16 +4,16 @@ A structured learning repository containing various web development projects and
 
 ## Repository Structure
 
-- **Sesi** - JavaScript/TypeScript Basics
+- **Sesi (1)** - JavaScript/TypeScript Basics
 - **Sesi (2)** - Code Versioning with Git and GitHub
 - **Sesi (3)** - Web Client Development Fundamentals
 - **Sesi (4)** - React with Tailwind CSS
-- **Sesi (5)** - Pokemon App Project
-- **Sesi (6)** - Advanced Topics
+- **Sesi (5)** - React Hooks
+- **Sesi (6)** - React State Management
 
 ## Session Contents
 
-### Sesi - JavaScript/TypeScript Basics
+### Sesi (1) - JavaScript/TypeScript Basics
 Fundamental programming exercises in TypeScript including:
 - Geometric calculations (rectangle area, circle properties)
 - Date manipulation
@@ -38,12 +38,20 @@ Modern front-end development:
 - Tailwind CSS for styling
 - State management
 
-### Sesi (5) - Pokemon App
-Practical application project:
-- API integration
-- Component-based architecture
-- State management
-- Responsive design
+### Sesi (5) - React Hooks
+Understanding and implementing React Hooks:
+- useState and useEffect
+- Custom hooks
+- Hook dependencies and optimization
+- Functional components with hooks
+
+### Sesi (6) - React State Management
+Advanced state management in React applications:
+- Context API
+- Redux fundamentals
+- State organization patterns
+- Global state vs. local state
+- Performance considerations
 
 ## Getting Started
 
