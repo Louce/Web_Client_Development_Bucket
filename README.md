@@ -4,48 +4,48 @@ A structured learning repository containing various web development projects and
 
 ## Repository Structure
 
-- **Sesi (1)** - JavaScript/TypeScript Basics
-- **Sesi (2)** - Code Versioning with Git and GitHub
-- **Sesi (3)** - Web Client Development Fundamentals
-- **Sesi (4)** - React with Tailwind CSS
-- **Sesi (5)** - React Hooks
-- **Sesi (6)** - React State Management
+- **session_1** - JavaScript/TypeScript Basics
+- **session_2** - Code Versioning with Git and GitHub
+- **session_3** - Web Client Development Fundamentals
+- **session_4** - React with Tailwind CSS
+- **session_5** - React Hooks
+- **session_6** - React State Management
 
 ## Session Contents
 
-### Sesi (1) - JavaScript/TypeScript Basics
+### session_1 - JavaScript/TypeScript Basics
 Fundamental programming exercises in TypeScript including:
 - Geometric calculations (rectangle area, circle properties)
 - Date manipulation
 - String operations
 - Basic algorithms
 
-### Sesi (2) - Code Versioning System
+### session_2 - Code Versioning System
 Introduction to version control using Git and GitHub:
 - Basic Git workflows
 - Repository management
 - Collaboration techniques
 
-### Sesi (3) - Web Client Development
+### session_3 - Web Client Development
 Core web development concepts:
 - HTML structure
 - CSS styling
 - JavaScript DOM manipulation
 
-### Sesi (4) - React with Tailwind
+### session_4 - React with Tailwind
 Modern front-end development:
 - React component structure
 - Tailwind CSS for styling
 - State management
 
-### Sesi (5) - React Hooks
+### session_5 - React Hooks
 Understanding and implementing React Hooks:
 - useState and useEffect
 - Custom hooks
 - Hook dependencies and optimization
 - Functional components with hooks
 
-### Sesi (6) - React State Management
+### session_6 - React State Management
 Advanced state management in React applications:
 - Context API
 - Redux fundamentals
