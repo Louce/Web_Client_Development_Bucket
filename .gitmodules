@@ -1,3 +1,18 @@
 [submodule "session_1_JavaScript-TypeScript-Basics"]
 	path = session_1_JavaScript-TypeScript-Basics
 	url = https://github.com/Louce/session_1_JavaScript-TypeScript-Basics.git
+[submodule "session_2_Code-Versioning-System-Git-Github"]
+	path = session_2_Code-Versioning-System-Git-Github
+	url = https://github.com/Louce/session_2_Code-Versioning-System-Git-Github.git
+[submodule "session_3_Web-Client-Development"]
+	path = session_3_Web-Client-Development
+	url = https://github.com/Louce/session_3_Web-Client-Development.git
+[submodule "session_4_React-Tailwind"]
+	path = session_4_React-Tailwind
+	url = https://github.com/Louce/session_4_React-Tailwind.git
+[submodule "session_5_Pokemon-App-React-Hooks"]
+	path = session_5_Pokemon-App-React-Hooks
+	url = https://github.com/Louce/session_5_Pokemon-App-React-Hooks.git
+[submodule "session_6_Pokemon-App-State-Management"]
+	path = session_6_Pokemon-App-State-Management
+	url = https://github.com/Louce/session_6_Pokemon-App-State-Management.git
